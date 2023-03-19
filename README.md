@@ -1,4 +1,4 @@
-# (Prosper Loan Data Exploration)
+# Prosper Loan Data Exploration
 ## by (Paul Boadu Asamoah)
 
 
