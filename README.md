@@ -1,5 +1,5 @@
 <h1>Prosper Loan Data Exploration</h1>
-## by Paul Boadu Asamoah
+<h2>By Paul Boadu Asamoah</h2>
 
 
 ## Dataset
