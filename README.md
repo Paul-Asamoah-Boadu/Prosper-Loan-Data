@@ -1,5 +1,5 @@
 # Prosper Loan Data Exploration
-## by (Paul Boadu Asamoah)
+## by Paul Boadu Asamoah
 
 
 ## Dataset
