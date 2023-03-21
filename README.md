@@ -11,7 +11,7 @@ The dataset provided includes information on loan listings on the Prosper platfo
 
 Other variables in the dataset, such as Prosper rating, estimated loss, estimated return, group affiliation, credit utilization, and credit inquiries, can be analyzed to learn more about the borrower's creditworthiness and borrowing habits. 
 
-## Data Wrangling
+<h2>Data Wrangling</h2>
 
 __Data Gathering__
 
