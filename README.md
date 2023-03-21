@@ -14,6 +14,7 @@ Other variables in the dataset, such as Prosper rating, estimated loss, estimate
 <a id="wrangling"></a>
 <h2>Data Wrangling</h2>
 
+<a id="gathering"></a>
 <h3>Data Gathering</h3>
 
 The prosper loan dataset was manually downloaded and loaded as `prosperLoanData.csv` using pd.read_csv with the extension ".csv," and was assigned to a variable df.
