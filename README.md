@@ -32,9 +32,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 `.loc`, `.iloc`
 
-
 `.isna(), .isnull()`
-
 
 `.sum()`
 
