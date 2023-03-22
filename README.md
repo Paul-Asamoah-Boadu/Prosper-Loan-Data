@@ -22,7 +22,6 @@ __Assessing Data__
 
 Programmatic assessment were used to assess the data. Which was carried out using the following Pandas and Numpy methods:
 
-
 `.shape`
 
 `.info()`
