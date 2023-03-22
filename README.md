@@ -44,7 +44,6 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 `.tail()`
 
-
 Some __quality issues__ in the datasets were found during the data review. Here are several problems with the quality.
 
 - Rename `ProsperRating (Alpha)` and `ListingCategory (numeric)` column by move (Alpha) and (numeric) respectively.
