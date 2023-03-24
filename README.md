@@ -51,7 +51,7 @@ Some __quality issues__ in the datasets were found during the data review. Here 
 - Replace the values of `ListingCategory (numeric)` to its actual names and change the datatype to categorical.
 - Drop all missing values.
 
-__Data Cleaning__
+<h3>Data Cleaning</h3>
 
 The important columns were extracted from the original dataset, resulting in a new dataset with 113,937 rows and 20 columns. 
 
