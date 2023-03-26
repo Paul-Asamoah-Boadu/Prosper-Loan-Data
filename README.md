@@ -65,7 +65,7 @@ Data types for Term, LoanStatus, ProsperRating, BorrowerState, IncomeRange, and 
 `ListingCategory (numeric)` values were replaced with their actual names and then changed to categorical data type.
 
 <a id="summary"></a>
-Summary of Findings
+<Summary of Findings
 
 It was discovered there has been a continueous increase from __June 2019__ to __late 2012__ in monthly loan payment over loan origination date till a decrease set in from late 2012 to early 2013. Following this drop, payments increased sharply from 25,000 to 180,000 between 2013 and 2014, followed by another drop.
 
