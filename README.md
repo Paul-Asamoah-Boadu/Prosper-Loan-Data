@@ -75,7 +75,7 @@ Additionally, the ProsperRating and IsBorrowerHomeowner distribute a sizable pro
 
 The analysis summarizes the Borrower APR and maximum loan amount across different Prosper ratings. Borrowers with an A rating generally have low Borrower APR and higher loan amounts while borrowers with AA ratings have the lowest APR and a maximum loan limit of 25,000 dollars. The Borrower APR for B and C rating borrowers ranges from 0.07 to 0.3, with a maximum loan limit of 25,000 dollars. However, D rating borrowers have higher Borrower APR compared to other ratings. E and HR ratings have the highest Borrower APR and lowest maximum monthly income, with HR borrowers having a high debt-to-income ratio.
 
-<a id=
+<a id=""
 <h2>Key Insights for Presentation</h2>
 
 The investigation concentrated on the borrower's loan status. By investigating the ProsperRating in relation to homeowners, I learned a lot about the nature of the borrowers. 
