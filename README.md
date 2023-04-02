@@ -6,7 +6,7 @@
 <h2>Introduction</h2>
 Prosper is a peer-to-peer lending platform that connects borrowers with lenders. It allows borrowers to request loans up to $40,000 and investors to invest as little as $25 per loan. Prosper uses a proprietary algorithm to determine a credit rating for borrowers and assign interest rates to loans.
 
-The dataset provided includes information on loan listings on the Prosper platform between <code>2005</code> and <code>2014</code>. The dataset has <code>113,937 listings` and `81 columns`. Some of the important columns in the dataset include the loan amount, interest rate, borrower's credit score, employment status, income, and loan status.
+The dataset provided includes information on loan listings on the Prosper platform between <code>2005</code> and <code>2014</code>. The dataset has <code>113,937 listings</code> and `81 columns`. Some of the important columns in the dataset include the loan amount, interest rate, borrower's credit score, employment status, income, and loan status.
 
 Other variables in the dataset, such as Prosper rating, estimated loss, estimated return, group affiliation, credit utilization, and credit inquiries, can be analyzed to learn more about the borrower's creditworthiness and borrowing habits. 
 
