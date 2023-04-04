@@ -23,7 +23,7 @@ The prosper loan dataset was manually downloaded and loaded as <code>prosperLoan
 
 Programmatic assessment were used to assess the data. Which was carried out using the following Pandas and Numpy methods:
 
-`.shape`
+<code>.shape</code>
 
 `.info()`
 
