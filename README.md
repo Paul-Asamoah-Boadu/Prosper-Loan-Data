@@ -25,7 +25,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.shape</code>
 
-`.info()`
+<code>.info()</code>
 
 `.value_counts()`
 
