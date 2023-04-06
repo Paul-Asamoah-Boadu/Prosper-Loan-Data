@@ -29,7 +29,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.value_counts()</code>
 
-`.loc`, `.iloc`
+<code>.loc</code>, `.iloc`
 
 `.isna(), .isnull()`
 
