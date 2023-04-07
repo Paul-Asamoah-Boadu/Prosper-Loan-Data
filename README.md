@@ -31,7 +31,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.loc</code>, <code>.iloc</code>
 
-<code>.isna()</co, .isnull()`
+<code>.isna()</cod, .isnull()`
 
 `.sum()`
 
