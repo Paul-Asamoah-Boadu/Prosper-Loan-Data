@@ -33,7 +33,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.isna()</code>, <code>.isnull()</code>
 
-<cod.sum()`
+<code.sum()`
 
 `.sample()`
 
