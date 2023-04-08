@@ -35,7 +35,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.sum()</code>
 
-`.sample()`
+<code>.sample()</code>
 
 `.nunique()`
 
