@@ -39,7 +39,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.nunique()</code>
 
-`.head()`
+<code>.head()<code>
 
 `.tail()`
 
