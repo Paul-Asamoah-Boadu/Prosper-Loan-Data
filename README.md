@@ -41,7 +41,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 <code>.head()</code>
 
-.tail()`
+`.tail()`
 
 Some __quality issues__ in the datasets were found during the data review. Here are several problems with the quality.
 
