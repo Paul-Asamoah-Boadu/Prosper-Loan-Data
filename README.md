@@ -45,7 +45,7 @@ Programmatic assessment were used to assess the data. Which was carried out usin
 
 Some __quality issues__ in the datasets were found during the data review. Here are several problems with the quality.
 
-- Rename <code>ProsperRating (Alpha)</code> and <code>ListingCategory (numeric)` column by move (Alpha) and (numeric) respectively.
+- Rename <code>ProsperRating (Alpha)</code> and <code>ListingCategory (numeric) column by move (Alpha) and (numeric) respectively.
 - Change datatype of `LoanOriginationDate` from object to Pandas datetime.
 - Change datatype of `Term`, `LoanStatus`, `ProsperRating (Alpha)`, `BorrowerState`, `IncomeRange`, `EmploymentStatus` categorical.
 - Replace the values of `ListingCategory (numeric)` to its actual names and change the datatype to categorical.
