@@ -47,7 +47,7 @@ Some __quality issues__ in the datasets were found during the data review. Here 
 
 - Rename <code>ProsperRating (Alpha)</code> and <code>ListingCategory (numeric)</code> column by move (Alpha) and (numeric) respectively.
 - Change datatype of <code>LoanOriginationDate</code> from object to Pandas datetime.
-- Change datatype of <code>Term<code, `LoanStatus`, `ProsperRating (Alpha)`, `BorrowerState`, `IncomeRange`, `EmploymentStatus` categorical.
+- Change datatype of <code>Term<code>, `LoanStatus`, `ProsperRating (Alpha)`, `BorrowerState`, `IncomeRange`, `EmploymentStatus` categorical.
 - Replace the values of `ListingCategory (numeric)` to its actual names and change the datatype to categorical.
 - Drop all missing values.
 
