@@ -62,7 +62,7 @@ Additionally, column names like <code>ProsperRating (Alpha)</code> and <code>Lis
 
 Data types for Term, LoanStatus, ProsperRating, BorrowerState, IncomeRange, and EmploymentStatus were changed to categorical, while LoanOriginationDate was converted to a Pandas datetime. 
 
-`ListingCategory (numeric)` values were replaced with their actual names and then changed to categorical data type.
+<code>ListingCategory (numeric)</code> values were replaced with their actual names and then changed to categorical data type.
 
 <a id="summary"></a>
 <h2>Summary of Findings</h2>
