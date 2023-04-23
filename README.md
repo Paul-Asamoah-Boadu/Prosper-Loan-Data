@@ -58,7 +58,7 @@ The important columns were extracted from the original dataset, resulting in a n
 
 To eliminate missing values, entries before June 2009 were dropped, leaving the dataset with 76,216 rows and 20 columns.
 
-Additionally, column names like <code>ProsperRating (Alpha)</code> and <code>ListingCategory (numeric)</code> were changed to <code>ProsperRating</code> and <codeListingCategory`, respectively. 
+Additionally, column names like <code>ProsperRating (Alpha)</code> and <code>ListingCategory (numeric)</code> were changed to <code>ProsperRating</code> and <code>ListingCategory`, respectively. 
 
 Data types for Term, LoanStatus, ProsperRating, BorrowerState, IncomeRange, and EmploymentStatus were changed to categorical, while LoanOriginationDate was converted to a Pandas datetime. 
 
