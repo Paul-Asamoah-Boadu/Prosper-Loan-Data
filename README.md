@@ -7,7 +7,7 @@
     <li><a href="#statement">Problem Statment</a></li>
     <li><a href="#approach">Approach</a></li>
     <li><a href="#tools">Tools</a></li>
-    <li><a href="#data">Data</a></li>
+    
   
 </ul>
 
