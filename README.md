@@ -3,7 +3,7 @@
 
 <h2>Table of Content</h2>
 <ul>
-    <li><a href="#intro">Project</a></li>
+    <li><a href="#intro">Introduction</a></li>
    
    
     
