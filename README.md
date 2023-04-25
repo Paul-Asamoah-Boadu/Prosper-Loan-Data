@@ -6,7 +6,7 @@
     <li><a href="#project">Project</a></li>
     <li><a href="#statement">Problem Statment</a></li>
     <li><a href="#approach">Approach</a></li>
-    <li><a href="#tools">Tools</a></li>
+    
     
   
 </ul>
