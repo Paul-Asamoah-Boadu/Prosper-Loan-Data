@@ -5,7 +5,7 @@
 <ul>
     <li><a href="#data">Dataset</a></li>
     <li><a href="#wrangling">Data wrangling</a></li>
-    <li><a href="#summary"
+    <li><a href="#summary">Summary of Findings</a><li>
     
     
   
