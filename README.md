@@ -7,6 +7,7 @@
     <li><a href="#wrangling">Data wrangling</a></li>
     <li><a href="#summary">Summary of Findings</a><li>
     <li><a href="#insights">Key Insights for Presentation</a><li>
+    <li><a href="#insights">Key Insights for Presentation</a></li>
 </ul>
 
 <a id="data"></a>
