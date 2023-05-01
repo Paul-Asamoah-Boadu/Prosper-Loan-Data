@@ -6,9 +6,9 @@
     <li><a href="#data">Dataset</a></li>
     <li><a href="#wrangling">Data wrangling</a></li>
      <ul>
-            <li><a href="#gathering">Gathering Data</a></li>
-            <li><a href="#assessing">Assessing Data</a></li>
-            <li><a href="#cleaning">Cleaning Data</a></li>
+            <li><a href="#gathering">Data Gathering</a></li>
+            <li><a href="#assessing">Data Assessing</a></li>
+            <li><a href="#cleaning">Data Cleaning</a></li>
         </ul>
     <li><a href="#summary">Summary of Findings</a></li>
     <li><a href="#insights">Key Insights for Presentation</a></li>
