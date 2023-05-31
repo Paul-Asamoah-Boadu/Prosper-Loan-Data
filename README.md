@@ -79,7 +79,7 @@ Data types for Term, LoanStatus, ProsperRating, BorrowerState, IncomeRange, and 
 <a id="summary"></a>
 <h2>Summary of Findings</h2>
 
-It was discovered there has been a continueous increase from __June 2019__ to __late 2012__ in monthly loan payment over loan origination date till a decrease set in from late 2012 to early 2013. Following this drop, payments increased sharply from 25,000 to 180,000 between 2013 and 2014, followed by another drop.
+It was discovered there has been a continueous increase from <b>June 2019</b> to __late 2012__ in monthly loan payment over loan origination date till a decrease set in from late 2012 to early 2013. Following this drop, payments increased sharply from 25,000 to 180,000 between 2013 and 2014, followed by another drop.
 
 The analysis revealed that the evolution of the company's loan terms, highlighting the addition of 12-month and 60-month terms in 2010, in addition to the initial 36-month term. Interestingly, there has been a significant and steady increase in monthly loan payments since the introduction of the 12-month term, which has continued until 2013. From 2009 to present, the 36-month term has also seen consistent increases in loan payments. The 60-month term, on the other hand, initially saw a 100k dollar decrease in monthly loan payments shortly after its introduction in 2012, but has since seen a slow and steady rise, with current monthly loan payments hovering around 350k dollars.
 
