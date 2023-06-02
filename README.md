@@ -30,7 +30,7 @@ Other variables in the dataset, such as Prosper rating, estimated loss, estimate
 
 The prosper loan dataset was manually downloaded and loaded as <code>prosperLoanData.csv</code> using pd.read_csv with the extension <code>".csv,"</code> and was assigned to a variable df.
 
-<a id="assessing"><a>
+<a id="assessing"></a>
 <h3>Assessing Data</h3>
 
 Programmatic assessment were used to assess the data. Which was carried out using the following Pandas and Numpy methods:
