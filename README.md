@@ -14,7 +14,7 @@
     <li><a href="#insights">Key Insights for Presentation</a></li>
 </ul>
 
-<a id="data"></a>
+
 <h2>Dataset</h2>
 Prosper is a peer-to-peer lending platform that connects borrowers with lenders. It allows borrowers to request loans up to $40,000 and investors to invest as little as $25 per loan. Prosper uses a proprietary algorithm to determine a credit rating for borrowers and assign interest rates to loans.
 
